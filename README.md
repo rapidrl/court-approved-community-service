@@ -1,6 +1,6 @@
-# Court-Approved Community Service Programs
+# Court-Recognized Community Service Programs
 
-This resource provides information about court-approved community service programs available online through The Foundation of Change, a nationally recognized nonprofit organization.
+This resource provides information about court-recognized community service programs available online through The Foundation of Change, a nationally recognized nonprofit organization.
 
 ## About The Foundation of Change
 
@@ -12,7 +12,7 @@ Visit our website to enroll or learn more:
 
 https://www.thefoundationofchange.org
 
-## What Makes Our Programs Court-Approved
+## What Makes Our Programs Court-Recognized
 
 - Recognized by state and federal courts nationwide
 - Verifiable certificates of completion provided to each participant
@@ -30,7 +30,7 @@ https://www.thefoundationofchange.org
 
 ## Who Can Benefit
 
-Our court-approved community service programs serve individuals who need to:
+Our court-recognized community service programs serve individuals who need to:
 
 - Complete court-ordered community service hours
 - Fulfill probation or parole requirements
